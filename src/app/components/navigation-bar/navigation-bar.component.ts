@@ -14,4 +14,12 @@ export class NavigationBarComponent {
     const hamburger = document.querySelector('.hamburger');
     hamburger?.classList.toggle('active');
   }
+
+  closeMenu() {
+    if (this.isMenuOpen) {
+      this.isMenuOpen = false;
+      const hamburger = document.querySelector('.hamburger');
+      hamburger?.classList.remove('active');
+    }
+  }
 }

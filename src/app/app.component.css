@@ -1,5 +1,41 @@
-:host {
-    display: block;
-    background-color: #f0f0f0;
-    min-height: 100vh;
+.content-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+.staggered-section {
+  padding: 4rem 2rem;
+  margin: 2rem 0;
+  opacity: 0;
+}
+
+.slide-left {
+  transform: translateX(-100%);
+  animation: slideFromLeft 1s ease forwards;
+}
+
+.slide-right {
+  transform: translateX(100%);
+  animation: slideFromRight 1s ease forwards;
+}
+
+@keyframes slideFromLeft {
+  to {
+    transform: translateX(0);
+    opacity: 1;
   }
+}
+
+@keyframes slideFromRight {
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .staggered-section {
+    padding: 2rem 1rem;
+  }
+}

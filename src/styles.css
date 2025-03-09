@@ -7,4 +7,20 @@
 
 body {
   font-family: 'Ubuntu', sans-serif;
+  padding-top: 60px;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 70px; /* Adjust based on your navbar height */
+}
+
+.fas, .far, .fab {
+  font-size: 1.2em;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.fa-2x {
+  margin-bottom: 1rem;
 }

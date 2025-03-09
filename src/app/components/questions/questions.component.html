@@ -1,0 +1,13 @@
+<section class="faq-section" id="questions">
+  <h2><i class="fas fa-question-circle"></i> Preguntas Frecuentes</h2>
+  <div class="faq-container">
+    <div class="faq-item" *ngFor="let faq of faqs">
+      <div class="faq-question">
+        <h3><i class="fas fa-chevron-right"></i> {{ faq.question }}</h3>
+      </div>
+      <div class="faq-answer">
+        <p><i class="fas fa-quote-left"></i> {{ faq.answer }}</p>
+      </div>
+    </div>
+  </div>
+</section>
