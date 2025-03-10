@@ -1,10 +1,15 @@
 <nav>
   <div class="logo"><i class="fas fa-brain"></i> Sandra Dual Alaminos</div>
+  <div class="hamburger" (click)="toggleMenu()">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
   <ul [class.active]="isMenuOpen">
-    <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-    <li><a href="#services"><i class="fas fa-hands-helping"></i> Services</a></li>
-    <li><a href="#questions"><i class="fas fa-question-circle"></i> FAQ</a></li>
-    <li><a href="#testimonials"><i class="far fa-comment-dots"></i> Testimonials</a></li>
-    <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
+    <li><a href="#" (click)="closeMenu()"><i class="fas fa-home"></i> Home</a></li>
+    <li><a href="#services" (click)="closeMenu()"><i class="fas fa-hands-helping"></i> Servicios</a></li>
+    <li><a href="#questions" (click)="closeMenu()"><i class="fas fa-question-circle"></i> Preguntas Frecuentes</a></li>
+    <li><a href="#testimonials" (click)="closeMenu()"><i class="far fa-comment-dots"></i> Testimonios</a></li>
+    <li><a href="#contact" (click)="closeMenu()"><i class="fas fa-envelope"></i> Contacto</a></li>
   </ul>
 </nav>

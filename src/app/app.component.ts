@@ -6,7 +6,6 @@ import { PricingComponent } from './components/pricing/pricing.component';
 import { ReviewsComponent } from './components/reviews/reviews.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { QuestionsComponent } from './components/questions/questions.component';
-import { NavigationBarComponent } from './components/navigation-bar/navigation-bar.component';
 
 @Component({
   selector: 'app-root',
@@ -17,12 +16,11 @@ import { NavigationBarComponent } from './components/navigation-bar/navigation-b
     QuestionsComponent,
     ReviewsComponent,
     FooterComponent,
-    ContactComponent,
-    NavigationBarComponent
+    ContactComponent
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Psychology Practice - Professional Mental Health Services';
+  title = 'Sandra Dual Alaminos - Psicóloga';
 }

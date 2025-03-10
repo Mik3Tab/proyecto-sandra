@@ -16,10 +16,8 @@ export class NavigationBarComponent {
   }
 
   closeMenu() {
-    if (this.isMenuOpen) {
-      this.isMenuOpen = false;
-      const hamburger = document.querySelector('.hamburger');
-      hamburger?.classList.remove('active');
-    }
+    this.isMenuOpen = false;
+    const hamburger = document.querySelector('.hamburger');
+    hamburger?.classList.remove('active');
   }
 }
