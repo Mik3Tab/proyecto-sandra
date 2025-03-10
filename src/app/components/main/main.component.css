@@ -33,6 +33,9 @@
 .hero-content {
   padding: 2rem;
   max-width: 640px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
 }
 
 .hero-image {
@@ -54,6 +57,11 @@ h1 {
 }
 
 .cta-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  width: 320px;
   padding: 15px 30px;
   background: linear-gradient(135deg, #3498db, #2980b9);
   color: white;
@@ -68,7 +76,6 @@ h1 {
   position: relative;
   overflow: hidden;
   text-decoration: none;
-  display: inline-block;
 }
 
 .cta-button:hover {

@@ -1,8 +1,9 @@
-import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
+import { MatIconModule } from '@angular/material/icon';
 
 @Component({
   selector: 'app-navigation-bar',
+  imports: [MatIconModule],
   templateUrl: './navigation-bar.component.html',
   styleUrls: ['./navigation-bar.component.css']
 })

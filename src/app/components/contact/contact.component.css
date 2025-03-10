@@ -18,6 +18,12 @@
   gap: 1rem;
 }
 
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
+
 input, textarea {
   padding: 0.8rem;
   border: 1px solid #ddd;

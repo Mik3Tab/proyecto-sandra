@@ -86,7 +86,7 @@ a:hover::after {
   border-radius: 2px;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 660px) {
   .hamburger {
     display: flex;
   }
@@ -138,4 +138,18 @@ a:hover::after {
   a {
     font-size: 19px;
   }
+}
+
+mat-icon {
+  vertical-align: middle;
+  margin-right: 8px;
+  font-size: 20px;
+  height: 20px;
+  width: 20px;
+}
+
+.logo mat-icon {
+  font-size: 24px;
+  height: 24px;
+  width: 24px;
 }
