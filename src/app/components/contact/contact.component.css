@@ -1,34 +1,92 @@
 .contact {
+  max-width: 1200px;
+  margin: 0 auto;
   background: radial-gradient(circle at center, #f8f9fa 10%, rgba(255, 255, 255, 0.98) 80%, white 100%);
-  padding: 30px;
+  padding: 40px;
   border-radius: 15px;
-  transition: all 0.3s ease;
 }
 
 .contact-container {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  gap: 2rem;
+  gap: 3rem;
   margin-top: 2rem;
+}
+
+.contact-info {
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.contact-info p {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.contact-info p:last-child {
+  border-bottom: none;
 }
 
 .contact-form {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.5rem;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
-.contact-info {
+/* Update media queries for better responsiveness */
+@media screen and (max-width: 930px) {
+  .contact-container {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .contact-info {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .contact-info p {
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .contact {
+    padding: 20px;
+  }
+}
+
+.contact-info p {
   display: flex;
-  flex-direction: column;
-  row-gap: 30px;
+  align-items: center;
+  gap: 16px;
 }
 
-input, textarea {
-  padding: 0.8rem;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  width: 100%;
+button mat-icon {
+  margin-right: 12px;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.error-message {
+  color: #f44336;
+  font-size: 12px;
+  margin-top: -8px;
+  margin-bottom: 8px;
 }
 
 button {
@@ -43,29 +101,4 @@ button {
 
 button:hover {
   background: #2980b9;
-}
-
-@media screen and (max-width: 930px) {
-  .contact-container {
-    grid-template-columns: 1fr;
-  }
-
-  .contact-info {
-    text-align: center;
-  }
-}
-
-@media screen and (max-width: 420px) {
-  .contact {
-    padding: 2rem 1rem;
-  }
-
-  h2 {
-    font-size: 1.5rem;
-    text-align: center;
-  }
-
-  input, textarea {
-    padding: 0.6rem;
-  }
 }

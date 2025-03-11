@@ -1,11 +1,16 @@
 .hero {
   display: flex;
-  padding: 4rem 2rem;
+  padding: 64px 0px 64px 96px;
+  min-height: 80vh;
   background: linear-gradient(to right, #f5f7fa, #c3cfe2);
   align-items: center;
   justify-content: space-between;
   position: relative;
   overflow: hidden;
+}
+
+.hero-image {
+  max-height: 70vh;
 }
 
 .hero::before {
@@ -16,8 +21,8 @@
   width: 100%;
   height: 100%;
   background-image: url('/assets/image_3.jpeg');
-  background-repeat: repeat;
   background-size: cover;
+  background-position: center;
   opacity: 0.15;
   z-index: 1;
   pointer-events: none;

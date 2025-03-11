@@ -85,8 +85,8 @@ a:hover::after {
   transition: all 0.3s ease;
   border-radius: 2px;
 }
-
-@media screen and (max-width: 660px) {
+/* Update the breakpoint from 660px to 1123px */
+@media screen and (max-width: 1123px) {
   .hamburger {
     display: flex;
   }
@@ -152,4 +152,54 @@ mat-icon {
   font-size: 24px;
   height: 24px;
   width: 24px;
+}
+
+.nav-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+  padding: 8px 16px;
+}
+
+@media screen and (max-width: 768px) {
+  .nav-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .nav-links a {
+    width: 100%;
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (max-width: 1123px) {
+  li mat-icon {
+    display: none !important;
+  }
+
+  .icon {
+    display: none;
+  }
+
+  .nav-links a {
+    padding: 8px 12px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .nav-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .nav-links a {
+    width: 100%;
+    justify-content: flex-start;
+  }
 }

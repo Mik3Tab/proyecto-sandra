@@ -1,17 +1,49 @@
 <section class="contact" id="contact">
-  <h2><i class="fas fa-paper-plane"></i> Contacto</h2>
+  <h2><mat-icon>send</mat-icon> Contacto</h2>
   <div class="contact-container">
     <div class="contact-info">
-      <h3><i class="fas fa-info-circle"></i> Información de contacto</h3>
-      <p><i class="fas fa-map-marker-alt"></i> Valencia, España</p>
-      <p><i class="fas fa-phone"></i> (555) 123-4567</p>
-      <p><i class="far fa-envelope"></i> {{ email }}</p>
+      <p><mat-icon>location_on</mat-icon> Valencia, España</p>
+      <p><mat-icon>phone</mat-icon> (555) 123-4567</p>
+      <p><mat-icon>email</mat-icon> {{ email }}</p>
     </div>
-    <form class="contact-form">
-      <input type="text" placeholder="Tu Nombre">
-      <input type="email" placeholder="Tu Email">
-      <textarea placeholder="Tu Mensaje"></textarea>
-      <button type="submit"><i class="fas fa-paper-plane"></i> Enviar</button>
+    <form [formGroup]="contactForm" (ngSubmit)="onSubmit()" class="contact-form">
+      <mat-form-field>
+        <input matInput type="text" formControlName="name" placeholder="Tu Nombre" required>
+        <mat-error *ngIf="contactForm.get('name')?.hasError('required')">
+          El nombre es requerido
+        </mat-error>
+        <mat-error *ngIf="contactForm.get('name')?.hasError('pattern')">
+          El nombre solo puede contener letras y espacios
+        </mat-error>
+        <mat-error *ngIf="contactForm.get('name')?.hasError('maxlength')">
+          El nombre no puede exceder 50 caracteres
+        </mat-error>
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput type="email" formControlName="email" placeholder="Tu Email" required>
+        <mat-error *ngIf="contactForm.get('email')?.hasError('required')">
+          El email es requerido
+        </mat-error>
+        <mat-error *ngIf="contactForm.get('email')?.hasError('email') || contactForm.get('email')?.hasError('pattern')">
+          Por favor, introduce un email válido
+        </mat-error>
+        <mat-error *ngIf="contactForm.get('email')?.hasError('maxlength')">
+          El email no puede exceder 100 caracteres
+        </mat-error>
+      </mat-form-field>
+      <mat-form-field>
+        <textarea matInput formControlName="message" placeholder="Tu Mensaje" required></textarea>
+        <mat-error *ngIf="contactForm.get('message')?.hasError('required')">
+          El mensaje es requerido
+        </mat-error>
+        <mat-error *ngIf="contactForm.get('message')?.hasError('maxlength')">
+          El mensaje no puede exceder 1000 caracteres
+        </mat-error>
+      </mat-form-field>
+
+      <button mat-raised-button color="primary" type="submit" [disabled]="!contactForm.valid">
+        <mat-icon>send</mat-icon> Enviar
+      </button>
     </form>
   </div>
 </section>
