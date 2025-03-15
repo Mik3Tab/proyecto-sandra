@@ -15,32 +15,19 @@
         <mat-error *ngIf="contactForm.get('name')?.hasError('pattern')">
           El nombre solo puede contener letras y espacios
         </mat-error>
-        <mat-error *ngIf="contactForm.get('name')?.hasError('maxlength')">
-          El nombre no puede exceder 50 caracteres
-        </mat-error>
+        <mat-error *ngIf="contactForm.get('name')?.hasError('maxlength')">El nombre no puede exceder 50 caracteres</mat-error>
       </mat-form-field>
       <mat-form-field>
         <input matInput type="email" formControlName="email" placeholder="Tu Email" required>
-        <mat-error *ngIf="contactForm.get('email')?.hasError('required')">
-          El email es requerido
-        </mat-error>
-        <mat-error *ngIf="contactForm.get('email')?.hasError('email') || contactForm.get('email')?.hasError('pattern')">
-          Por favor, introduce un email válido
-        </mat-error>
-        <mat-error *ngIf="contactForm.get('email')?.hasError('maxlength')">
-          El email no puede exceder 100 caracteres
-        </mat-error>
+        <mat-error *ngIf="contactForm.get('email')?.hasError('required')">El email es requerido</mat-error>
+        <mat-error *ngIf="contactForm.get('email')?.hasError('email') || contactForm.get('email')?.hasError('pattern')">Por favor, introduce un email válido</mat-error>
+        <mat-error *ngIf="contactForm.get('email')?.hasError('maxlength')">El email no puede exceder 100 caracteres</mat-error>
       </mat-form-field>
       <mat-form-field>
         <textarea matInput formControlName="message" placeholder="Tu Mensaje" required></textarea>
-        <mat-error *ngIf="contactForm.get('message')?.hasError('required')">
-          El mensaje es requerido
-        </mat-error>
-        <mat-error *ngIf="contactForm.get('message')?.hasError('maxlength')">
-          El mensaje no puede exceder 1000 caracteres
-        </mat-error>
+        <mat-error *ngIf="contactForm.get('message')?.hasError('required')">El mensaje es requerido</mat-error>
+        <mat-error *ngIf="contactForm.get('message')?.hasError('maxlength')">El mensaje no puede exceder 1000 caracteres</mat-error>
       </mat-form-field>
-
       <button mat-raised-button color="primary" type="submit" [disabled]="!contactForm.valid">
         <mat-icon>send</mat-icon> Enviar
       </button>
