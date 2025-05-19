@@ -11,24 +11,24 @@ import { Component } from '@angular/core';
 export class QuestionsComponent {
   faqs = [
     {
-      question: "How long does each therapy session last?",
-      answer: "Each session typically lasts 50 minutes, allowing time for in-depth discussion while maintaining focus and effectiveness."
+      question: "¿Cuánto dura cada sesión de terapia?",
+      answer: "Cada sesión tiene una duración aproximada de 55 minutos. Esta es la duración más común y recomendada en terapia individual."
     },
     {
-      question: "What types of therapy do you offer?",
-      answer: "I offer individual therapy, couples counseling, and family therapy. My approach is tailored to each client's specific needs and goals."
+      question: "¿Qué tipo de terapia ofreces?",
+      answer: "Ofrezco terapia individual online tanto en adolescentes como adultos. Empleando un enfoque integrador que reúne técnicas de diferentes escuelas para ofrecer un tratamiento personalizado que se adapte a las necesidades de los pacientes."
     },
     {
-      question: "Is everything I say confidential?",
-      answer: "Yes, all sessions are strictly confidential. The only exceptions are those required by law, such as risk of harm to self or others."
+      question: "¿Con qué frecuencia debo asistir a terapia?",
+      answer: " Inicialmente, se recomiendan sesiones semanales. A medida que se avanza, podemos ajustar la frecuencia según las necesidades y objetivos de cada persona."
     },
     {
-      question: "How often should I attend therapy?",
-      answer: "Initially, weekly sessions are recommended. As progress is made, we can adjust the frequency based on your needs and goals."
+      question: "¿Cómo se realiza el pago?",
+      answer: "Para asegurar tu plaza y facilitar la organización de la agenda, el pago de la sesión se realiza con 24 horas de antelación por Bizum o transferencia."
     },
     {
-      question: "Do you accept insurance?",
-      answer: "Please contact me directly to discuss insurance options and payment methods available."
+      question: "¿Qué debo tener en cuenta para realizar una sesión de terapia online?",
+      answer: "Para tu sesión de terapia online, asegúrate de tener buena conexión a internet, un espacio privado y tranquilo, y el dispositivo cargado y listo. Se enviará un enlace de la sesión online al correo electrónico previamente."
     }
   ];
 }
