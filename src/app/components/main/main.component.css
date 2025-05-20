@@ -237,3 +237,16 @@ h1 {
     }
   }
 }
+.hero-content p {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin: 20px 0;
+  max-width: 800px;
+}
+
+@media (max-width: 768px) {
+  .hero-content p {
+    font-size: 1.1rem;
+    margin: 15px 0;
+  }
+}

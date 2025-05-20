@@ -196,10 +196,17 @@ mat-icon {
     justify-content: flex-start;
   }
 }
-
+/* Update the media query to be more specific */
 @media screen and (max-width: 1123px) {
-  li mat-icon {
+  li mat-icon.hide-mobile {
     display: none !important;
+  }
+
+  /* Keep service icon visible */
+  li a mat-icon {
+    display: inline-flex !important;
+    vertical-align: middle;
+    margin-right: 8px;
   }
 
   .icon {

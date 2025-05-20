@@ -41,6 +41,20 @@
 
 .testimonial-card {
   padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.testimonial-card p {
+  margin-bottom: 8px;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.client {
+  margin-top: 8px;
+  text-align: right;
 }
 
 @media screen and (max-width: 420px) {
