@@ -65,3 +65,4023 @@ Thumbs.db
 *.bak
 *.swp
 *~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/cypress/videos/
+/cypress/screenshots/
+
+# Backup files
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+**/config/keys.json
+**/credentials.json
+**/secrets.*
+
+# SSL/TLS Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs and debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/cache
+.sass-cache/
+
+# IDE specific files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/.nyc_output
+/

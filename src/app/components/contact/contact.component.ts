@@ -4,6 +4,8 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
 import { CommonModule } from '@angular/common';
+import emailjs from '@emailjs/browser';
+import { environment } from '../../../environments/environment';
 
 @Component({
   selector: 'app-contact',
@@ -22,6 +24,7 @@ export class ContactComponent implements OnInit {
   contactForm: FormGroup;
   enviado = false;
   error = false;
+  isSubmitting = false;
 
   constructor(private fb: FormBuilder) {
     this.contactForm = this.fb.group({
@@ -31,11 +34,35 @@ export class ContactComponent implements OnInit {
     });
   }
 
-  ngOnInit() {}
+  ngOnInit() {
+    emailjs.init(environment.emailjs.publicKey);
+  }
 
-  onSubmit() {
-    if (this.contactForm.valid) {
-      console.log(this.contactForm.value);
+  async onSubmit() {
+    if (this.contactForm.valid && !this.isSubmitting) {
+      this.isSubmitting = true;
+      try {
+        const templateParams = {
+          from_name: this.contactForm.value.nombre,
+          from_email: this.contactForm.value.email,
+          message: this.contactForm.value.mensaje,
+          to_name: 'Sandra Dual',
+        };
+
+        await emailjs.send(
+          environment.emailjs.serviceId,
+          environment.emailjs.templateId,
+          templateParams
+        );
+        
+        this.enviado = true;
+        this.contactForm.reset();
+      } catch (error) {
+        this.error = true;
+        console.error('Error al enviar el email:', error);
+      } finally {
+        this.isSubmitting = false;
+      }
     }
   }
 }
