@@ -57,6 +57,7 @@ export class ContactComponent implements OnInit {
         
         this.enviado = true;
         this.contactForm.reset();
+        this.contactForm.markAsPristine();
       } catch (error) {
         this.error = true;
         console.error('Error al enviar el email:', error);
