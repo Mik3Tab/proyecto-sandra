@@ -18,6 +18,10 @@ export class NavigationBarComponent {
     hamburger?.classList.toggle('active');
   }
 
+  scrollToTop() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
   closeMenu() {
     this.isMenuOpen = false;
     const hamburger = document.querySelector('.hamburger');
