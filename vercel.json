@@ -6,7 +6,7 @@
       "use": "@vercel/static-build",
       "config": {
         "buildCommand": "ng build --configuration=production",
-        "outputDirectory": "dist/proyecto-sandra"
+        "outputDirectory": "dist/proyecto-sandra/browser"
       }
     }
   ],
@@ -14,5 +14,10 @@
     "EMAILJS_SERVICE_ID": "service_26qzo2g",
     "EMAILJS_TEMPLATE_ID": "template_0nu58ow",
     "EMAILJS_PUBLIC_KEY": "vuXcbLcih-I6LDRIo"
-  }
+  },
+  "routes": [
+    { "src": "/assets/(.*)", "dest": "/assets/$1" },
+    { "src": "/favicon.(ico|png|svg)", "dest": "/favicon.$1" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
 }

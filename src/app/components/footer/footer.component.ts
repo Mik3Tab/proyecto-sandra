@@ -10,11 +10,13 @@ import { MatIconModule } from '@angular/material/icon';
 export class FooterComponent {
   email = ' sandradualalaminos@gmail.com ';
 
-  openLinkedin(): void {
-    window.open('https://www.linkedin.com/in/sandra-dual-alaminos-909a541b9/');
+  openLinkedin(event?: Event): void {
+    if (event) event.preventDefault();
+    window.open('https://www.linkedin.com/in/sandra-dual-alaminos-909a541b9/', '_blank', 'noopener');
   }
   
-  openInstagram(): void {
-    window.open('https://www.instagram.com/psicologia_sandradual/')
+  openInstagram(event?: Event): void {
+    if (event) event.preventDefault();
+    window.open('https://www.instagram.com/psicologia_sandradual/', '_blank', 'noopener');
   }
 }
